@@ -1,6 +1,6 @@
 import streamlit as st
 
-original_title = '<h1 style="font-family: serif; color:white; font-size: 20px;">Streamlit CSS Styling✨ </h1>'
+original_title = '<h1 style="font-family: serif; color:white; font-size: 20px;">Aayush </h1>'
 st.markdown(original_title, unsafe_allow_html=True)
 
 
