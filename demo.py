@@ -8,7 +8,7 @@ st.markdown(original_title, unsafe_allow_html=True)
 background_image = """
 <style>
 [data-testid="stAppViewContainer"] > .main {
-    background-image: url("https://i.ibb.co/NW2Cg1r/magicpattern-mesh-gradient-1715052764545.png");
+    background-image: url("https://i.ibb.co/YX69zgx/magicpattern-mesh-gradient-1715089814913.jpg");
     background-size: 100vw 100vh;  # This sets the size to cover 100% of the viewport width and height
     background-position: center;  
     background-repeat: no-repeat;
@@ -35,3 +35,4 @@ div[data-baseweb="base-input"] {
 </style>
 """
 st.markdown(input_style, unsafe_allow_html=True)
+
